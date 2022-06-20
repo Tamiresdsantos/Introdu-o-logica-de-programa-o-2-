@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang= "pt-br"
+
+< head >
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width",inital -scale="1.0">
+
+<link rel="styledheet" href="style.css">
+<title> site daora demais</title>
+
+
+
+</head>
+<body>
+    <section id="presentation">
+        <div class="presentation container">
+    
+        
+
+         <h1>Hello, World !! <span</h1>
+         <h1> Bem-Vindos <span</h1>
+         <h1> Meu  Nome é<span</h1>
+         <h1>Tamires<span</h1>
+         <a href="#" type="button" class="cta>Portifólio" </a></a>
+        </div>
+
+    </section>
+</body>
+</html>
